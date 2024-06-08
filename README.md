@@ -1,6 +1,9 @@
+
 ![Header Image](https://github.com/ArmanNadaf/ArmanNadaf/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
-# Arman Nadaf
+
+# ArmanNadaf-ArmanNadafprofile
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arman_nadaf_5618/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-nadaf-9b10b9273/)
@@ -16,15 +19,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmanNadaf&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArmanNadaf&theme=merko&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanNadaf&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ArmanNadaf&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArmanNadaf&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanNadaf&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArmanNadaf&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ArmanNadaf&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
 [![Visitor Count](https://visitcount.itsvg.in/api?id=ArmanNadaf&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
