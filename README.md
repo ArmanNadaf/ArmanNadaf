@@ -1,4 +1,4 @@
-![logo]https://github.com/ArmanNadaf/ArmanNadaf/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png
+![logo](https://github.com/ArmanNadaf/ArmanNadaf/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 
 # ArmanNadaf-ArmanNadafprofile
